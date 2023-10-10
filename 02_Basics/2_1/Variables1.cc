@@ -7,7 +7,7 @@
 
 int main()
 {
-    float my_var = 13.37;
+    float my_var = 13.3794554;
 
     my_var = 24.0;
 
