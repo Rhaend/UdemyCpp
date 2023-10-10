@@ -7,7 +7,7 @@
 int main()
 {
     double a = 0.0F;
-    std::cout << "Please enter the value of a: ";
+    std::cout << "Please enter the value of a:PPP ";
     std::cin >> a;
 
     double perimeter = 4.0 * a;
